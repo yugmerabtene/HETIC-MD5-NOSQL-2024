@@ -1,4 +1,8 @@
-# HETIC-NOSQL-REDIS-mangodb-mysql
+# HETIC-NOSQL-REDIS-mangodb-mysql  
+
+
+
+
 
 ![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/ea5a2b16-3a06-4f6a-88bd-fcb13d60f5ba)  
 https://medium.com/@iamsoumyadip/redis-catch-and-clustering-df590763cea6
@@ -145,10 +149,15 @@ Dans un contexte de CRUD (Create, Read, Update, Delete), l'utilisation d'un cach
 
 4. **Gestion du Cache Redis :**
    - La durée pendant laquelle les données sont stockées dans le cache (TTL - Time To Live) est généralement configurée en fonction des besoins de l'application.
-   - Les stratégies d'éviction peuvent être mises en place pour gérer l'espace du cache et éliminer les données obsolètes lorsque la capacité maximale est atteinte.
+   - Les stratégies d'éviction peuvent être mises en place pour gérer l'espace du cache et éliminer les données obsolètes lorsque la capacité maximale est atteinte.  
 
 5. **Considérations de Sécurité :**
    - Il est crucial de mettre en place des mécanismes de gestion des droits d'accès pour s'assurer que seules les données appropriées sont mises en cache.
    - La sécurité du cache Redis, y compris la gestion des autorisations et la désactivation des fonctionnalités potentiellement dangereuses, doit être configurée de manière appropriée.
+  
+   ----
+   
+FORMATION COMPLETE SUR MANGODB : 
+https://courseflix.net/course/mongodb-the-complete-developer-s-guide  
 
   
