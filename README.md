@@ -199,4 +199,12 @@ MongoDB est une base de données NoSQL, ce qui signifie qu'elle diffère des bas
 FORMATION COMPLETE SUR MANGODB : 
 https://courseflix.net/course/mongodb-the-complete-developer-s-guide  
 
+
+--- 
+
+HBase - The Hadoop Database
+
+https://fr.wikipedia.org/wiki/Hadoop
+https://www.youtube.com/watch?v=l3j6jvHVPak
+
   
