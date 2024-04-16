@@ -1,4 +1,9 @@
-# YNOV-NOSQL-REDIS
+# HETIC-NOSQL-REDIS-mangodb-mysql
+
+![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/ea5a2b16-3a06-4f6a-88bd-fcb13d60f5ba)  
+https://medium.com/@iamsoumyadip/redis-catch-and-clustering-df590763cea6
+
+
 
 ## Projet WebApp - Paradigme Procédural Fonctionnel avec une Base de donnée NoSql <=> MySql
 
