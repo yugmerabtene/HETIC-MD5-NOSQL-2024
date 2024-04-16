@@ -191,6 +191,10 @@ MongoDB est une base de données NoSQL, ce qui signifie qu'elle diffère des bas
 2. **Surveillance :** Suivi des performances du serveur MongoDB et identification des goulots d'étranglement potentiels.
 
 3. **Sauvegarde et restauration :** Mise en place de stratégies de sauvegarde pour prévenir la perte de données et restauration en cas de besoin.
+4. 
+
+
+![videoframe_151502](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/9be27187-258c-49e6-ba92-cba6430176a8)
 
 ---
 
