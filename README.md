@@ -178,6 +178,9 @@ MongoDB est une base de données NoSQL, ce qui signifie qu'elle diffère des bas
 
 5. **Réplication et sharding :** MongoDB offre des fonctionnalités de réplication pour assurer la haute disponibilité des données, ainsi que le sharding pour distribuer les données sur plusieurs serveurs afin de garantir des performances évolutives.
 
+   ![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/36070923-edc0-4152-b0be-6c3615cf577e)
+
+
 **Opérations courantes avec MongoDB :**
 
 1. **Insertion de données :** Ajout de nouveaux documents à une collection.
