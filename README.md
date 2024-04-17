@@ -1,5 +1,10 @@
 # HETIC-NOSQL-REDIS-mangodb-mysql  
 
+
+
+
+
+
 ![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/ea5a2b16-3a06-4f6a-88bd-fcb13d60f5ba)  
 https://medium.com/@iamsoumyadip/redis-catch-and-clustering-df590763cea6  
 
@@ -152,9 +157,10 @@ Dans un contexte de CRUD (Create, Read, Update, Delete), l'utilisation d'un cach
    ----
 
 
-Ah, je vois ! Tu aimerais une formation complète sur MongoDB. Malheureusement, je ne peux pas accéder au contenu spécifique de ce cours. Cependant, je peux te fournir un aperçu général de ce qu'est MongoDB et ce à quoi tu peux t'attendre dans une formation typique sur ce sujet. 
-
 ---
+![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/c23892ab-9040-4cb9-ac86-a864ce53712e)  
+![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/ce0081eb-a596-4dcd-b21e-d19300a30794)
+
 
 **Introduction à MongoDB :**
 
