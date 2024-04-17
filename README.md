@@ -1,4 +1,4 @@
-# HETIC-NOSQL-REDIS-mangodb-mysql  
+# HETIC-NOSQL-REDIS-oangodb-mysql  
 
 
 
@@ -162,7 +162,9 @@ Dans un contexte de CRUD (Create, Read, Update, Delete), l'utilisation d'un cach
 ![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/ce0081eb-a596-4dcd-b21e-d19300a30794)
 
 
-**Introduction à MongoDB :**
+**Introduction à MongoDB :**  
+![image](https://github.com/yugmerabtene/HETIC-MD5-NOSQL-2024/assets/3670077/3034c505-4d6a-4bb8-a579-fa6ea3347cce)
+
 
 MongoDB est une base de données NoSQL, ce qui signifie qu'elle diffère des bases de données relationnelles traditionnelles telles que MySQL ou PostgreSQL. Contrairement aux bases de données relationnelles, MongoDB stocke les données dans des documents JSON flexibles, ce qui permet une grande adaptabilité aux modèles de données non structurées ou semi-structurées.
 
@@ -209,7 +211,7 @@ MongoDB est une base de données NoSQL, ce qui signifie qu'elle diffère des bas
 
 
    
-FORMATION COMPLETE SUR MANGODB : 
+FORMATION COMPLETE SUR MONGODB : 
 https://courseflix.net/course/mongodb-the-complete-developer-s-guide  
 
 
